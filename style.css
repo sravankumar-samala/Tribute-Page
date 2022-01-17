@@ -1,0 +1,53 @@
+#main {
+  margin: 0 auto;
+  padding: 0;  
+}
+
+#tittle {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+
+#img-div {
+  margin: 30px 8px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+#image {
+  
+  width: 100%;
+  position: relative;
+}
+
+#image-caption {
+  margin: 20px 0;
+}
+
+#tribute-info {
+   margin: 30px 8px;
+  padding: 5px;
+}
+
+#headline {
+  margin: 0 0 30px;
+  text-align: center;
+}
+
+#info-list li {
+  line-height: 40px;
+}
+
+#f-heading {
+ text-align: center; 
+}
+
+#tribute-link {
+  text-decoration: none;
+}
